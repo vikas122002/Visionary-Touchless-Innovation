@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.bin
+face_data/
+enc_password.bin
+key.bin
+BlinkShots/
